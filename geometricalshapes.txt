@@ -1,0 +1,18 @@
+The geometrical shape of one O atom surrounded by 2 F atoms is bent
+The geometrical shape of one S atom surrounded by 4 F atoms is seesaw
+The geometrical shape of one Be atom surrounded by 3 F atoms is trigonal planar
+The geometrical shape of one C atom surrounded by 1 P atoms is unknown
+The geometrical shape of one As atom surrounded by 5 Br atoms is trigonal bipyramidal
+The geometrical shape of one Si atom surrounded by 2 Xe atoms is bent
+The geometrical shape of one N atom surrounded by 4 As atoms is tetrahedral
+The geometrical shape of one P atom surrounded by 1 I atoms is unknown
+The geometrical shape of one Xe atom surrounded by 4 Si atoms is square planar
+The geometrical shape of one Se atom surrounded by 3 Be atoms is trigonal pyramidal
+The geometrical shape of one F atom surrounded by 2 C atoms is bent
+The geometrical shape of one Cl atom surrounded by 1 O atoms is unknown
+The geometrical shape of one Br atom surrounded by 3 Si atoms is T-shaped
+The geometrical shape of one I atom surrounded by 4 S atoms is seesaw
+The geometrical shape of one Xe atom surrounded by 1 Cl atoms is unknown
+The geometrical shape of one S atom surrounded by 6 P atoms is octahedral
+The geometrical shape of one Xe atom surrounded by 2 O atoms is linear
+The geometrical shape of one Cl atom surrounded by 5 I atoms is square pyramidal
