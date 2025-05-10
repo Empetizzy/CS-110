@@ -1,0 +1,5 @@
+Person A is normal
+Person B is a carrier
+Person C is normal
+Person D is anemic
+Person A and B are related
